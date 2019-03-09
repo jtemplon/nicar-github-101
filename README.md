@@ -1,6 +1,6 @@
 # nicar-github-101
 
-Welcome to Github 101 at NICAR. Here are some terms that you might find useful.
+Welcome to Github 101 at NICAR. Here is some information that you might find useful.
 
 ## Terms
 
